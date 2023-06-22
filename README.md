@@ -25,7 +25,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/aisyal/awesome-ml-android"><b>Soilit</b></a></td>
+      <td><a href="https://github.com/aisyalfawwaz/Soilit-Smart-Farming-App"><b>Soilit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
