@@ -33,7 +33,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aisyal/smart-irrigation-system"><b>Smart Irrigation System</b></a></td>
+      <td><a href="https://github.com/aisyal/smart-irrigation-system"><b>Hand Gesture Classification</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues
@@ -42,7 +42,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aisyal/object-detection-app"><b>Object Detection App</b></a></td>
+      <td><a href="https://github.com/aisyal/object-detection-app"><b>IoT Based on Web Server</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
