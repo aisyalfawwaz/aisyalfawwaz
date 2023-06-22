@@ -16,7 +16,7 @@
 <h3>Projects</h3>
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>🚀 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🍴 Forks</b></td>
@@ -34,9 +34,7 @@
       <td><a href="https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm"><b>Hand Gesture Classification</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io
-
-/github/issues-pr/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aisyalfawwaz/IoTBasedOnWebServer"><b>IoT Based on Web Server</b></a></td>
