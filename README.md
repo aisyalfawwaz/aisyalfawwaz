@@ -4,7 +4,7 @@
   <b>Hello, I'm Here </b>
 </p>
 
-<p>Welcome to my page! I'm Aisy Al Fawwaz, a passionate Machine Learning, Android, and IoT developer. I love exploring the intersection of technology and innovation to create impactful solutions. Here, you'll find some of my projects and interests. Feel free to explore and connect with me.</p>
+<p>Welcome to my page! I'm Fawwaz, a passionate Machine Learning, Android, and IoT developer. I love exploring the intersection of technology and innovation to create impactful solutions. Here, you'll find some of my projects and interests. Feel free to explore and connect with me.</p>
 
 
 <h3>Skills</h3>
