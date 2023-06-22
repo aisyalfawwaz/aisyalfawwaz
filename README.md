@@ -55,5 +55,5 @@
 
 ------------
 
-<p align="center">This <i>README</i> file is dynamically generated.<br>Last refreshed: Thursday, 22 June, 17:04 CEST<br><a href="https://github.com/aisyal/aisyal/actions/workflows/generate-readme.yml">Generate your own!</a></p>
+<p align="center">This <i>README</i> file is dynamically generated.<br>Last refreshed: Thursday, 22 June, 17:04 CEST</p>
 <p align="center"><img src="https://github.com/aisyal/aisyal/actions/workflows/generate-readme.yml/badge.svg" /><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/aisyal?style=flat-square&labelColor=343b41" /><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/aisyal?style=flat-square&labelColor=343b41" /></p>
