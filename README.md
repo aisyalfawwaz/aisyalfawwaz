@@ -26,30 +26,30 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/aisyalfawwaz/Soilit-Smart-Farming-App"><b>Soilit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyalfawwaz/Soilit-Smart-Farming-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyalfawwaz/Soilit-Smart-Farming-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyalfawwaz/Soilit-Smart-Farming-App?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm"><b>Hand Gesture Classification</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io
+
+/github/issues-pr/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aisyalfawwaz/IoTBasedOnWebServer"><b>IoT Based on Web Server</b></a></td>
-      <td><img alt="Stars" src="https
-
-://img.shields.io/github/stars/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/object-detection-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyalfawwaz/IoTBasedOnWebServer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyalfawwaz/IoTBasedOnWebServer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyalfawwaz/IoTBasedOnWebServer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 <h3>Connect with Me</h3>
 <p>
-  <a href="[https://github.com/aisyal](https://github.com/aisyalfawwaz)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/aisyalfawwaz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aisy-al-fawwaz-14937723a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
