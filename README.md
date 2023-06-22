@@ -6,13 +6,14 @@
 
 <p>Welcome to my page! I'm Fawwaz, a passionate Machine Learning, Android, and IoT developer. I love exploring the intersection of technology and innovation to create impactful solutions. Here, you'll find some of my projects and interests. Feel free to explore and connect with me.</p>
 
-
 <h3>Skills</h3>
 <p>
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine_Learning-FFA518?style=flat-square&logo=python&logoColor=white" />
   <img alt="Android Development" src="https://img.shields.io/badge/-Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="IoT Development" src="https://img.shields.io/badge/-IoT_Development-0088CC?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Web Development" src="https://img.shields.io/badge/-Web_Development-563D7C?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
 
 <h3>Projects</h3>
 <table>
