@@ -1,9 +1,7 @@
-# Aisy Al Fawwaz: Machine Learning, Android, and IoT Developer
-
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   <br>
-  <b>Hey! Nice to see you.</b>
+  <b>Hello, I'm Here </b>
 </p>
 
 <p>Welcome to my page! I'm Aisy Al Fawwaz, a passionate Machine Learning, Android, and IoT developer from Indonesia. I love exploring the intersection of technology and innovation to create impactful solutions. Here, you'll find some of my projects and interests. Feel free to explore and connect with me.</p>
