@@ -55,4 +55,4 @@
 
 ------------
 
-<p align="center">This <i>README</i> file is dynamically generated.<br>Last refreshed: Thursday, 22 June, 17:04 CEST</p>
+<p align="center">This <i>README</i> file is dynamically generated.</p>
