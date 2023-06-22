@@ -6,7 +6,6 @@
 
 <p>Welcome to my page! I'm Aisy Al Fawwaz, a passionate Machine Learning, Android, and IoT developer. I love exploring the intersection of technology and innovation to create impactful solutions. Here, you'll find some of my projects and interests. Feel free to explore and connect with me.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aisyalfawwaz&show_icons=true" alt="Aisy Al Fawwaz's Github Stats">
 
 <h3>Skills</h3>
 <p>
