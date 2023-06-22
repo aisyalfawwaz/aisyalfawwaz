@@ -31,7 +31,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/awesome-ml-android?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aisyal/smart-irrigation-system"><b>Hand Gesture Classification</b></a></td>
+      <td><a href="https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm"><b>Hand Gesture Classification</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyal/smart-irrigation-system?style=flat-square&labelColor=343b41"/></td>
