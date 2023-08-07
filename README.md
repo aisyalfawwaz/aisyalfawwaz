@@ -27,10 +27,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE"><b>Starstec</b></a></td>
-      <td><img alt="Stars" src="https://github.com/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://github.com/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://github.com/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
+     <td><a href="https://github.com/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE"><b>Starstec</b></a></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aisyalfawwaz/Starstec-Stress-Level_App-Using-BLE?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm"><b>Hand Gesture Classification</b></a></td>
